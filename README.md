@@ -1,4 +1,4 @@
-AtliQ Hardware Sales, Market & Financial Analytics
+## AtliQ Hardware Sales, Market & Financial Analytics
 
 ## Overview :
 AtliQ Hardware is a company that deals in Hardware sales of Computers, it's peripherals & accessories such as PCs, printers, mouse, HDDs & so on across the globe via Retail stores such as Croma, BestBuy or e-commerce platforms such as Amazon, Flipkart or through their Direct or through Distributors such as NEPTUNE.
