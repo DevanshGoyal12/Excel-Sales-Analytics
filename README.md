@@ -5,5 +5,5 @@ AtliQ Hardware is a company that deals in Hardware sales of Computers, it's peri
 The objective here is to create a Sales and Finance Report for AtliQ Hardware that provides a detailed analysis of Financial metrics for AtliQ Hardware during 2019-2021 period, which would drive financial decision making for the Management of AtliQ Hardware based on the strategic Insights gained from the analysis ensuring efficency & growth of the company.
 
 ## Sales Report :
-1. provides the Net Sales from FY 2019 to 2021 for each Customer.
+1. Customer Performance Report provides the Net Sales from FY 2019 to 2021 for each Customer.
 
